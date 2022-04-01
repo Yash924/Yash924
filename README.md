@@ -26,7 +26,6 @@
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
 <img src="https://snehil.dev/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/php.svg" title="PHP" height="32" width="32" />
 <br>
 
 <p align="center">
